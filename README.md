@@ -39,6 +39,8 @@ docker compose exec app php artisan migrate:fresh --seed
 
 Приложение доступно на `http://localhost:8080`.
 
+![200115061-cb617eb5-a75a-4a38-9e60-2e318cfc9af6-fotor-2025082965615]([https://github.com/user-attachments/assets/c0c1c466-8572-4df1-bddf-71570dcecc42](https://github.com/user-attachments/assets/2ca5a71e-1041-41e5-893f-80fbdd89f3c1))
+
 ### Остановка
 
 ```bash
